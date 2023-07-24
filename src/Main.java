@@ -26,5 +26,7 @@ Horse[]horsess={horse1};
 Farm1 farm1=new Farm1("K street","Michael",cows,horses,sheep);
         System.out.println(farm1);
         Farm2 farm2=new Farm2("S street","Adan",cows1,horsess,sheeps);
+        System.out.println(farm2);
+        
     }
 }
